@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anil1
+- 👋 Hi, I’m Anil Pal Thakuri.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning bachelor in CSIT.
 - 💞️ I’m looking to collaborate on Web Development.
