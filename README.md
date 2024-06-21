@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning bachelor in CSIT.
 - 💞️ I’m looking to collaborate on Web Development.
-- 📫 How to reach me do message me in instagram --https://www.instagram.com/venomanil01/.
+- 📫 How to reach me do message me in instagram --
 - 😄 Pronouns: Call me as you want 😄
 - ⚡ Fun fact: i talk more than needed 😄
 
